@@ -39,5 +39,6 @@ Contribuições são bem-vindas! Se você deseja contribuir com melhorias, corre
 
 ### Resultado final do Projeto
 
-![Gerador de senhas](https://github.com/TiagoHenrique10/Projeto-LandingPage/assets/96561261/927d7067-ca01-455f-bd9a-271a07b317c0)
+![Biblioteca de Jogos](https://github.com/TiagoHenrique10/Projeto-Biblioteca-De-Jogos/assets/96561261/e8905258-8062-4bff-aa22-1f667d575f79)
+
 
